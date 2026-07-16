@@ -1,10 +1,10 @@
-## H I Y A !   I ' M   C O O P E R
+## H I Y A !&nbsp;&nbsp;&nbsp;I ' M&nbsp;&nbsp;&nbsp;C O O P E R
 
 <p align="center">
   <img src="assets/hello_brain.gif" width="500" alt="animated brain" />
 </p>
 
-I'm a meuro/data scientist with expertise in ML, predictice modeling, research, computational neuroscience, and human behavior.
+I'm a neuro/data scientist with expertise in ML, predictice modeling, research, computational neuroscience, and human behavior.
 
 Currently, I'm a postdoctoral researcher at Caltech where I investigate how the brain learns, evaluates choices, and makes decision. In particular, I study complex forms of planning that include abstraction and internal models of the causal structure in the world.
 
@@ -15,7 +15,7 @@ Currently, I'm a postdoctoral researcher at Caltech where I investigate how the 
 - Experimental design, causal inference, and mechanistic understanding of complex systems
 - Reproducible analysis/ML tools for neural and behavioral data
 
-### P E R S O N A L   P R O J E C T S
+### P E R S O N A L&nbsp;&nbsp;&nbsp;P R O J E C T S
 
 - **[overtraining-detection](https://github.com/coopergrossman/overtraining-detection)** — Personalized overtraining detection from Strava activity and Garmin sleep data using LSTM models for next-day recovery prediction.
 
