@@ -1,5 +1,7 @@
-<img src="assets/hello_brain.gif" height="200" alt="animated brain" />
+<img src="assets/hello_brain.gif" height="400" alt="animated brain" />
 <img src="assets/header.svg" height="200" alt="HIYA! I'M COOPER" />
+
+<br clear="left" />
 
 ### A B O U T
 
