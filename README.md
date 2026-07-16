@@ -1,8 +1,10 @@
-## H I Y A !&nbsp;&nbsp;&nbsp;I ' M&nbsp;&nbsp;&nbsp;C O O P E R
+<img src="assets/hello_brain.gif" width="420" align="left" alt="animated brain" />
 
-<p align="center">
-  <img src="assets/hello_brain.gif" width="500" alt="animated brain" />
-</p>
+### **H I Y A !**
+### **I ' M**
+### **C O O P E R**
+
+<br clear="left" />
 
 I'm a neuro/data scientist with expertise in ML, predictice modeling, research, computational neuroscience, and human behavior.
 
