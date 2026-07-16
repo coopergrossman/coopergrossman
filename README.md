@@ -1,10 +1,9 @@
-<img src="assets/hello_brain.gif" width="420" align="left" alt="animated brain" />
-
-### **H I Y A !**
-### **I ' M**
-### **C O O P E R**
+<img src="assets/hello_brain.gif" width="360" align="left" alt="animated brain" />
+<img src="assets/header.svg" width="420" alt="HIYA! I'M COOPER" />
 
 <br clear="left" />
+
+### A B O U T
 
 I'm a neuro/data scientist with expertise in ML, predictice modeling, research, computational neuroscience, and human behavior.
 
