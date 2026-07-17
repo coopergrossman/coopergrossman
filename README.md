@@ -8,7 +8,7 @@ Currently, I'm a postdoctoral researcher at Caltech where I investigate how the 
 
 ### R E S E A R C H
  
-- Model-based hierarchical reinforcemnet learning models of behavior
+- Model-based hierarchical reinforcement learning models of behavior
 - Human single-unit electrophysiology and fMRI
 - Experimental design, causal inference, and mechanistic understanding of complex systems
 - Reproducible analysis/ML tools for neural and behavioral data
